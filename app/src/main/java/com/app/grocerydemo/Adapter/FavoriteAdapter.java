@@ -256,7 +256,14 @@ public class FavoriteAdapter extends RecyclerView.Adapter<FavoriteAdapter.MyView
                 preferencess.edit().putInt("cardqnty", dbcart.getCartCount()).apply();
             }
 
-
+/*            if (customNavigation != null) {
+                List<HashMap<String, String>> map1 = db.getCartAll();
+                if (map1.size() > 0) {
+                    customNavigation.getOrCreateBadge(R.id.navigation_cart).setNumber(map1.size());
+                } else {
+                    customNavigation.removeBadge(R.id.navigation_cart);
+                }
+            }*/
         } catch (IndexOutOfBoundsException e) {
             e.printStackTrace();
         }

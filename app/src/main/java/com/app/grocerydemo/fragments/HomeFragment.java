@@ -51,6 +51,7 @@ import com.app.grocerydemo.model.NewCartModel;
 import com.app.grocerydemo.model.NewCategoryDataModel;
 import com.app.grocerydemo.service.APIService;
 import com.app.grocerydemo.service.Config;
+import com.app.grocerydemo.util.CurvedBottomNavigationView;
 import com.app.grocerydemo.util.MyUtils;
 import com.app.grocerydemo.util.SharedPref;
 import com.bumptech.glide.Glide;
@@ -100,7 +101,7 @@ public class HomeFragment extends Fragment {
     private ActivityResultLauncher<Intent> cameraResult;
     private ActivityResultLauncher<String> cameraActivityLauncher;
     private String mCurrentPhotoPath = "";
-
+    CurvedBottomNavigationView customNavigation;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -113,6 +114,7 @@ public class HomeFragment extends Fragment {
         totalItems = view.findViewById(R.id.txt_totalQuan);
         noData = view.findViewById(R.id.noData);
         this.db = new DatabaseHandler(getActivity());
+        customNavigation = getActivity().findViewById(R.id.customBottomBar);
 
 
         RecyclerView.LayoutManager mLayoutManager = new GridLayoutManager(getActivity(), 2);
@@ -148,7 +150,15 @@ public class HomeFragment extends Fragment {
 
 
        setData();
+        customNavigation.getOrCreateBadge(R.id.navigation_wallet).setNumber(5);
 
+//        if (customNavigation != null) {
+//            if (topSellingNew.size() > 0) {
+//                customNavigation.getOrCreateBadge(R.id.navigation_wallet).setNumber(topSellingNew.size());
+//            } else {
+//                customNavigation.removeBadge(R.id.navigation_wallet);
+//            }
+//        }
 
         return view;
 
@@ -346,6 +356,7 @@ public class HomeFragment extends Fragment {
             if (myFavModelList.size() == 0) {
                 Toast.makeText(getActivity(), "No data found.", Toast.LENGTH_SHORT).show();
             }
+
             //categoryGridAdapter = new CategoryGridAdapter( myFavModelList, getContext(),new Categorygridquantity() {
             categoryGridAdapter = new FavoriteAdapter( getContext(),topSelling,  new Categorygridquantity() {
                 @Override
