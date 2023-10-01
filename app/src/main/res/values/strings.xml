@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GroceryDemo</string>
+
+    <string name="outOfStock" translatable="false">Out of stock</string>
+    <string name="nav_order" translatable="false">My Orders</string>
+    <string name="nav_profile" translatable="false">My Profile</string>
+    <string name="nav_about" translatable="false">About Us</string>
+
+    <string name="menu_icon">menu icon</string>
+    <string name="nav_logout" translatable="false">Logout</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="emptyCartInfo">Please add some of the items in cart that will appear here</string>
+    <string name="emptyCart">Ops ! NO items Found in the cart</string>
+    <string name="currency" translatable="false">\u20B9</string>
+
+    <string name="permission_dialog_title">Permissions</string>
+    <string name="permission_dialog_msg">Camera permission required.</string>
+    <string name="permission_dialog_btn">Settings</string>
+
+    <string name="status_stop">----------------------- <b><i>Status</i></b> ----------------------</string>
+    <string name="nav_terms" translatable="false">T &amp; C / Privacy Policy</string>
+</resources>

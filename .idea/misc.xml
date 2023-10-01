@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable-nodpi/ic_launcher_background.xml" value="0.1648148148148148" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/bg_bottom_rounded_offer.xml" value="0.1" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/border_rounded.xml" value="0.1" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/buttonroundedbackgroundnew.xml" value="0.16018518518518518" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/cart_bg.xml" value="0.1" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/circle.xml" value="0.1648148148148148" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/gray_dateday_rect.xml" value="0.1" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/ic_account_balance_wallet_black_24dp.xml" value="0.15520833333333334" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.15520833333333334" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/ic_different_squares.xml" value="0.15520833333333334" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/ic_down_arrow.xml" value="0.1" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/ic_edit.xml" value="0.15520833333333334" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/ic_home.xml" value="0.15520833333333334" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/ic_home_black.xml" value="0.1648148148148148" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/ic_loupe.xml" value="0.15520833333333334" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/ic_menu.xml" value="0.1648148148148148" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/ic_minus.xml" value="0.1" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/ic_notifications_24.xml" value="0.1648148148148148" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.15520833333333334" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/ic_plus.xml" value="0.1" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/ic_right_arrow.xml" value="0.15520833333333334" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/item_count.xml" value="0.15520833333333334" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/order.xml" value="0.15520833333333334" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/rounded_shape.xml" value="0.1" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/rounded_white_view.xml" value="0.16203703703703703" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/drawable/xml_budget.xml" value="0.15520833333333334" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/layout/activity_main.xml" value="0.136" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/layout/app_bar_main.xml" value="0.12" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/layout/custom_dailog__show_message.xml" value="0.12708333333333333" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/layout/layout_category_list.xml" value="0.12222222222222222" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/layout/layout_product_add.xml" value="0.25" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/layout/menu_cart_layout.xml" value="0.152" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/menu/activity_main_drawer.xml" value="0.1390625" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/menu/bottom_menu.xml" value="0.1390625" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1390625" />
+        <entry key="..\:/bakup rishit/Rishit/R/Grocery demo/app/src/main/res/menu/main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
