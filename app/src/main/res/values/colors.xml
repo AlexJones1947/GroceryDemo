@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">@color/colorNew</color>
+
+    <color name="colorNew">#75AD31</color>
+
+    <color name="color_light_yellow">#FFF176</color>
+    <color name="grey">#C0C0C0</color>
+    <color name="green">@color/colorNew</color>
+    <color name="orange">@color/colorNew</color>
+    <!-- old <color name="color_1">#1bdc84</color>-->
+    <color name="wallet_color">#2CB3A9A8</color>
+    <color name="color_home_background">#FFFFFF</color>
+    <color name="darkGrey">#2F2929</color>
+    <color name="mediumGrey">#B9B8B6</color>
+
+    <color name="hintColor">#808080</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="color_orange_new">#ff7c00</color>
+    <color name="colorEmpButton_color">#321b75</color>
+
+    <color name="colorBlack1">#000000</color>
+    <color name="colorBlack4">#444444</color>
+    <color name="colorBlack45">#80444444</color>
+    <color name="colorBlack2">#B3000000</color>
+    <color name="colorWhite">#ffffffff</color>
+    <color name="colorOrange">#FF6600</color>
+    <color name="colorOrange1">#4DFF6600</color>
+    <color name="colorOrange2">#26FF6600</color>
+    <color name="colorGreen">#479B25</color>
+    <color name="colorBlack">#262626</color>
+    <color name="colorBlackTrans">#33262626</color>
+    <color name="colorEditText">#F8F8F8</color>
+    <color name="colorDisable">#dedede</color>
+
+</resources>
