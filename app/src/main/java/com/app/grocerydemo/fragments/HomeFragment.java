@@ -52,15 +52,6 @@ import com.app.grocerydemo.model.NewCategoryDataModel;
 import com.app.grocerydemo.service.APIService;
 import com.app.grocerydemo.service.Config;
 import com.app.grocerydemo.util.MyUtils;
-import com.app.grocerydemo.util.SharedPref;
-import com.bumptech.glide.Glide;
-import com.bumptech.glide.load.DataSource;
-import com.bumptech.glide.load.engine.DiskCacheStrategy;
-import com.bumptech.glide.load.engine.GlideException;
-import com.bumptech.glide.request.RequestListener;
-import com.bumptech.glide.request.RequestOptions;
-import com.bumptech.glide.request.target.Target;
-import com.google.firebase.crashlytics.buildtools.reloc.com.google.common.reflect.TypeToken;
 import com.google.gson.Gson;
 
 import java.io.ByteArrayOutputStream;
